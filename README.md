@@ -2,4 +2,4 @@
 
 Accessible Atom dark theme from rorvswild.com.
 
-![RoRvsWild Dark theme Syntax](https://basesecrete.com/rorvswild-theme/rorvswild-theme-atom-dark-syntax.png)
+![RoRvsWild Dark theme Syntax](https://basesecrete.com/rorvswild-theme/rorvswild-theme-atom-dark-syntax2.png)

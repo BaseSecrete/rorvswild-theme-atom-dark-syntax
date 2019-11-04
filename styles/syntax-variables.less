@@ -1,0 +1,46 @@
+@import "colors";
+
+// This defines all syntax variables that syntax themes must implement when they
+// include a syntax-variables.less file.
+
+// General colors
+@syntax-text-color: @very-light-gray;
+@syntax-cursor-color: white;
+@syntax-selection-color: lighten(@dark-gray, 5%);
+@syntax-selection-flash-color: darken(@blue, 11%); // Color the selection is 'flashed' when you run find next
+@syntax-background-color: @very-dark-gray;
+
+// Guide colors
+@syntax-wrap-guide-color: lighten(@dark-gray, 5%);
+@syntax-indent-guide-color: lighten(@dark-gray, 5%);
+@syntax-invisible-character-color: lighten(@dark-gray, 5%);
+
+// For find and replace markers
+@syntax-result-marker-color: @light-gray;
+@syntax-result-marker-color-selected: @very-light-gray;
+
+// Gutter colors
+@syntax-gutter-text-color: @gray;
+@syntax-gutter-text-color-selected:  @light-gray;
+@syntax-gutter-background-color: @very-dark-gray;
+@syntax-gutter-background-color-selected: @very-dark-gray;
+
+// For git diff info. i.e. in the gutter
+@syntax-color-renamed: @blue;
+@syntax-color-added: @green;
+@syntax-color-modified: @orange;
+@syntax-color-removed: @red;
+
+// For language entity colors
+@syntax-color-variable: @purple;
+@syntax-color-constant: @red;
+@syntax-color-property: @red;
+@syntax-color-value: @yellow;
+@syntax-color-function: @blue;
+@syntax-color-method: @blue;
+@syntax-color-class: @yellow;
+@syntax-color-keyword: @fushia;
+@syntax-color-tag: @red;
+@syntax-color-attribute: @orange;
+@syntax-color-import: @cyan;
+@syntax-color-snippet: @green;

@@ -1,6 +1,5 @@
 # RoRvsWild dark theme for Atom (syntax)
-
-<img align="right" src="https://basesecrete.com/rorvswild-theme/rorvswild-theme-icon-dark.png" width="200px" style="margin: 0 0 20px 20px;">
+[atom.io →](https://atom.io/themes/rorvswild-dark-syntax)
 
 An attempt at an accessible, yet easy on the eyes, dark Atom theme, based on [RoRvsWild](https://www.rorvswild.com) colors.
 
@@ -13,11 +12,9 @@ An attempt at an accessible, yet easy on the eyes, dark Atom theme, based on [Ro
 * **WCAG 2.0 AA**
 * **Light version** ([Atom.io](https://atom.io/themes/rorvswild-light-syntax) | [Github](https://github.com/BaseSecrete/rorvswild-theme-atom-light-syntax)) with **matching light UI** ([Atom.io](https://atom.io/themes/rorvswild-light-ui) | [Github](https://github.com/BaseSecrete/rorvswild-theme-atom-light-ui))
 
-# Other versions
 
-* **Terminal.app** ([Github](https://github.com/BaseSecrete/rorvswild-theme-terminal-app))
-* **Textmate / Sublime** ([Github](https://github.com/BaseSecrete/rorvswild-theme-textmate-dark))
-* **VS Code** ([VS Code Marketplace](https://github.com/BaseSecrete/rorvswild-theme-vscode-dark) | [Github](https://github.com/BaseSecrete/rorvswild-theme-vscode-dark))
+# Other versions
+[RoRvsWild theme →](https://www.rorvswild.com/theme)
 
 # About
 Made in Geneva, Switzerland by [Base Secrète](https://basesecrete.com).
